@@ -1,1 +1,1 @@
-README
+Repository Release Drafter
