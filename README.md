@@ -1,1 +1,1 @@
-Repository Release Drafter
+Release Drafter Example
